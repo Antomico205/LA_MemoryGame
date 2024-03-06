@@ -1,38 +1,38 @@
 [
     {
-        "image": "../assets/Audi.png",
+        "image": "../assets/audi.png",
         "name": "audi"
     },
     {
-        "image": "../assets/Ferrari812.png",
+        "image": "../assets/ferrari812.png",
         "name": "ferrari812"
     },
     {
-        "image": "../assets/FerrariF40.png",
+        "image": "../assets/ferrariF40.png",
         "name": "ferrariF40"
     },
     {
-        "image": "../assets/Jaguar.png",
+        "image": "../assets/jaguar.png",
         "name": "jaguar"
     },
     {
-        "image": "../assets/Koenigsegg.png",
+        "image": "../assets/koenigsegg.png",
         "name": "koenigsegg"
     },
     {
-        "image": "../assets/Lamborghini.png",
+        "image": "../assets/lamborghini.png",
         "name": "lamborghini"
     },
     {
-        "image": "../assets/McLaren.png",
+        "image": "../assets/mclaren.png",
         "name": "mclaren"
     },
     {
-        "image": "../assets/Mitsubishi.png",
+        "image": "../assets/mitsubishi.png",
         "name": "mitsubishi"
     },
     {
-        "image": "../assets/Nissan.png",
+        "image": "../assets/nissan.png",
         "name": "nissan"
     }
 ]
