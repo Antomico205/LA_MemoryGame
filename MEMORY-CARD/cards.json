@@ -1,22 +1,22 @@
 [
     {
-        "image": "../assets/Audi RS5.png",
+        "image": "../assets/Audi-RS5.png",
         "name": "Audi RS5"
     },
     {
-        "image": "../assets/Ferrari 812.png",
+        "image": "../assets/Ferrari-812.png",
         "name": "Ferrari 812"
     },
     {
-        "image": "../assets/Ferrari F40.png",
+        "image": "../assets/Ferrari-F40.png",
         "name": "Ferrari F40"
     },
     {
-        "image": "../assets/Jaguar E-Type.png",
+        "image": "../assets/Jaguar-E-Type.png",
         "name": "Jaguar E-Type"
     },
     {
-        "image": "../assets/Koenigsegg one to one.png",
+        "image": "../assets/Koenigsegg-one-to-one.png",
         "name": "Koenigsegg one to one"
     },
     {
@@ -24,15 +24,15 @@
         "name": "Lamborghini"
     },
     {
-        "image": "../assets/Mc Laren P1.png",
+        "image": "../assets/Mc-Laren-P1.png",
         "name": "Mc Laren P1"
     },
     {
-        "image": "../assets/Mitsubishi Evo 9.png",
+        "image": "../assets/Mitsubishi-Evo-9.png",
         "name": "Mitsubishi Evo 9"
     },
     {
-        "image": "../assets/Nissan GTR.png",
+        "image": "../assets/Nissan-GTR.png",
         "name": "Nissan GTR"
     }
 ]
