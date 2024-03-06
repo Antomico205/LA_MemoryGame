@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/Audi.png",
+        "name": "audi"
+    },
+    {
+        "image": "../assets/Ferrari812.png",
+        "name": "ferrari812"
+    },
+    {
+        "image": "../assets/FerrariF40.png",
+        "name": "ferrariF40"
+    },
+    {
+        "image": "../assets/Jaguar.png",
+        "name": "jaguar"
+    },
+    {
+        "image": "../assets/Koenigsegg.png",
+        "name": "koenigsegg"
+    },
+    {
+        "image": "../assets/Lamborghini.png",
+        "name": "lamborghini"
+    },
+    {
+        "image": "../assets/McLaren.png",
+        "name": "mclaren"
+    },
+    {
+        "image": "../assets/Mitsubishi.png",
+        "name": "mitsubishi"
+    },
+    {
+        "image": "../assets/Nissan.png",
+        "name": "nissan"
+    }
+]
